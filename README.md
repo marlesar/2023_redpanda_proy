@@ -4,6 +4,7 @@ Este repositorio contiene la tarea módulo data streaming del diplomado de UNA B
 ## Prerequisitos
 - Python 3 con pip
 - Docker
+- Visual Studio Code (opcional)
 
 Instalar paquete `kafka-python`:
 ```
